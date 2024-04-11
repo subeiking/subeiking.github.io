@@ -133,7 +133,7 @@ http://n07.rcs.revma.com/ks4vsmg3qtzuv
 http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/voa.png" group-title="境外广播",美国之音
 http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ONEFM.png"group-title="境外广播",One FM
+#EXTINF:-1 tvg-logo="https://subeiking.github.io/logo/onefm.png"group-title="境外广播",One FM
 http://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/inews.png" group-title="境外广播",BCC中广新闻 
 http://n12.rcs.revma.com/78fm9wyy2tzuv
