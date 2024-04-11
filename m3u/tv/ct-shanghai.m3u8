@@ -46,13 +46,13 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10 科教
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+http://219.147.3.106:4455/newlive/live/hls/11/live.m3u8
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11 戏剧
-https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+http://219.147.3.106:4455/newlive/live/hls/12/live.m3u8
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12 法治
-https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+http://219.147.3.106:4455/newlive/live/hls/13/live.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13 新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
@@ -62,12 +62,12 @@ http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14 少儿
-https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+http://219.147.3.106:4455/newlive/live/hls/15/live.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14 少儿
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15 音乐
-https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+http://219.147.3.106:4455/newlive/live/hls/16/live.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16 奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
@@ -77,6 +77,8 @@ http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17 农业农村
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 
