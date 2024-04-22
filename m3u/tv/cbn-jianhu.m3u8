@@ -148,7 +148,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8$1.6M_57
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8$1.6M_576
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="其他",纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="其他",纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="其他",纪实科教
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8$4.0M_1080
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
@@ -209,13 +209,13 @@ http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="晋中公共" tvg-name="晋中公共" tvg-logo="http://live.cooltv.top/logo/jzggpd.png" group-title="地方",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/%E8%8B%8F%E5%B7%9E4K.png" group-title="地方",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="" group-title="地方",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 #EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="" group-title="地方",南京信息
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
-
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/%E8%8B%8F%E5%B7%9E4K.png" group-title="地方",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="" group-title="地方",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
